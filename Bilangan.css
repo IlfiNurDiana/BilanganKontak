@@ -1,15 +1,16 @@
 body {
-background-color: black;
-color: white;
+  background-color: black;
+  color: white;
 }
 .header {
-height: 90px;
+  height: 90px;
 }
 .main {
-width: 1800px:
-height: 1000px;
+  width: 180px:
+  height: 100px;
 }
 .main a {
-font-size: 40px;
-font-family: serif;
+  font-size: 40px;
+  font-family: serif;
+  color: white;
 }
