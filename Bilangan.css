@@ -4,13 +4,13 @@ body {
 }
 .header {
   height: 90px;
+  font-family: serif;
+  font-size: 40px;
+  color: white;
 }
 .main {
-  width: 180px:
-  height: 100px;
+padding: 100px 80px:
 }
 .main a {
-  font-size: 40px;
-  font-family: serif;
-  color: white;
+margin: 10px;
 }
